@@ -1,1 +1,1 @@
-# PRODIGY_CS_01
+c guess the number game
